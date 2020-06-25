@@ -1,10 +1,6 @@
-title: John Doe # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
+title: Syed Atif # your name (or website title) here
+logo: "/images/logo.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  # First description 
-  # <br><br>
-  # Second description 
-  # <br><br> 
   <a href="https://www.linkedin.com/in/syed-atif-9a2225141/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal

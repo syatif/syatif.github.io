@@ -1,35 +1,27 @@
-## Portfolio
+## Hey. Thanks for joining. Here's a little about me.
 
 ---
 
-### Category Name 1 
+### About me
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Profession]
+Application Analyst Associate @ Northwestern Memorial Hospital
 
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+I have current experience in managing complex workflows, groups, and projects as I sit as Advisory to advance Imaging, Image Exchange, and Process Improvements for Northwestern Enterprise
 
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Current Projects]
+Enterprise-wide Image Exchange Consolidation
+In-House DICOM Migrations
+VNA (Hyland Acuo) Consolidation
+Teamplay Metrics and Monitoring
 
----
+[Degree]
+Graduate of University of Illinois Urbana-Champaign with a Bachelor degree in
+Microbiology
 
-### Category Name 2
+[Extra-qualifications]
+I offer thorough talent-acquisition, interviewing, retention, and training experience across wide variety of job functions and technical experiences. I have excelled in a dynamic and high volume recruitment environment, demonstrated keen ability to anticipate and achieve management and staffing needs.
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+My experience in being an Operations manager adds proficiency in managing profitability objectives, proposals for programs and negotiating contracts with a wide spectrum of contacts. As the Operations Manager in GECNFP. We created small community programs aimed at educating Women, kids, and accessible certification programs for individuals seeking employment.
 
----
-
-
-
-
----
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
+My years of leadership, management, and coordination through programs like being part of a Health Education Unit, leading service tours, and being an operations manager enables clear consistent communication with the ability to step up and work under leadership.
