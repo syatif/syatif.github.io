@@ -4,7 +4,15 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-
+    <style>
+      .backimage {
+        background-image: url("images/tile.png");
+        background-repeat: repeat; 
+        position:absolute;
+        background-attachment: fixed;
+      }
+    </style>
+    <div class="backimage"></div>
 {% seo %}
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
     <!--[if lt IE 9]>
@@ -21,14 +29,15 @@
         {% endif %}
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
+        <p>Are you looking to contact me? You can send an <a href="mailto:mail@syedmatif.com">email by clicking here.<img src="images/email-icon.png?raw=true"/></a></p>
       </header>
       <section>
 
-      {{ content }}
-
+        {{ content }}
+        <center><img src="images/dog.gif?raw=true"/></center>
       </section>
       <footer>
-        <p>Are you looking to contact me? You can send an <a href="mailto:mail@syedmatif.com">email by clicking here.<img src="images/email-icon.png?raw=true"/></a></p>
+        
       </footer>
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
