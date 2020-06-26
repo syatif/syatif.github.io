@@ -25,5 +25,3 @@ My experience in being an Operations manager adds proficiency in managing profit
 My years of leadership, management, and coordination through programs like being part of a Health Education Unit, leading service tours, and being an operations manager enables clear consistent communication with the ability to step up and work under leadership.
 
 ---
-
-Are you looking to contact me? You can send an <a href="mailto:mail@syedmatif.com">email by clicking here.[Image](/images/email-icon.png?raw=true)</a>
