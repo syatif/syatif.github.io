@@ -13,6 +13,8 @@ I have current experience in managing complex workflows, groups, and projects as
 - VNA (Hyland Acuo) Consolidation
 - Teamplay Metrics and Monitoring
 
+
+
 ## Degree
 Graduate of University of Illinois Urbana-Champaign with a Bachelor degree in Microbiology.
 
