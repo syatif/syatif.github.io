@@ -26,4 +26,4 @@ My years of leadership, management, and coordination through programs like being
 
 ---
 
-Are you looking to contact me? You can send an <a href=mailto:mail@syedmatif.com">email by clicking here.[Image]("/images/email-icon.png?raw=true")</a>
+Are you looking to contact me? You can send an <a href="mailto:mail@syedmatif.com">email by clicking here.[Image](/images/email-icon.png?raw=true)</a>
